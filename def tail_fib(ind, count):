@@ -1,0 +1,4 @@
+def tail_fib(ind, count):
+    if (ind==0):
+        return 1
+    return tail_fib(ind-1, count+)
